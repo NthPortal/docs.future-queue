@@ -1,4 +1,6 @@
-<head><title>future-queue</title></head>
+# future-queue
+
+[<=](..)
 
 [Scala 2.11](scala-2.11)
 
