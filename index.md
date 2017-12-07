@@ -1,4 +1,4 @@
-title: future-queue
+<head><title>future-queue</title></head>
 
 [Scala 2.11](scala-2.11)
 

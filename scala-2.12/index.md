@@ -1,4 +1,4 @@
-title: future-queue - Scala 2.12
+<head><title>future-queue - Scala 2.12</title></head>
 
 [latest](1.1.0)
 
