@@ -1,6 +1,6 @@
-# future-queue - Scala 2.11
-
 [<=](..)
+
+# future-queue - Scala 2.11
 
 [latest](1.1.0)
 
